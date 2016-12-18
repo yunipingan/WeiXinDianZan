@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">微信点赞</string>
+    <string name="accessibility_service_label">微信点赞服务</string>
+    <string name="accessibility_service_description">微信点赞服务！</string>
+</resources>
